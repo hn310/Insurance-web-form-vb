@@ -1,0 +1,25 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site.master.vb" Inherits="InsuranceManagement.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" runat="server" media="screen" href="~/Resources/Css/style.css" />
+    <script type="text/javascript" src="<%=ResolveUrl("~/Resources/Js/jquery-3.3.1.js")%>" ></script>
+    <script type="text/javascript" src="<%=ResolveUrl("~/Resources/Js/script.js")%>" ></script>
+    <asp:ContentPlaceHolder ID="Header" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div id="mainContent">
+        <asp:ContentPlaceHolder ID="Main" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+
+    <div id="footerContent">
+        <h3>Created by NamNVH</h3>
+    </div>
+
+</body>
+</html>

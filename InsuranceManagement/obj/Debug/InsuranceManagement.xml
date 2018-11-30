@@ -1,0 +1,392 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+InsuranceManagement
+</name>
+</assembly>
+<members>
+<member name="T:InsuranceManagement.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:InsuranceManagement.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:InsuranceManagement.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:InsuranceManagement.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:InsuranceManagement.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:InsuranceManagement.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="F:InsuranceManagement.Login._loginForm">
+<summary>
+loginForm control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.Login._lblError">
+<summary>
+lblError control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.Login._tbLoginName">
+<summary>
+tbLoginName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.Login._tbLoginPassword">
+<summary>
+tbLoginPassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.Login._LoginBtn">
+<summary>
+LoginBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.Site._Header">
+<summary>
+Header control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.Site._Main">
+<summary>
+Main control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._txtInsuranceNumber">
+<summary>
+txtInsuranceNumber control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._txtUserFullName">
+<summary>
+txtUserFullName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._ddGender">
+<summary>
+ddGender control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._txtBirthdate">
+<summary>
+txtBirthdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._rbExistingCompany">
+<summary>
+rbExistingCompany control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._ScriptManager1">
+<summary>
+ScriptManager1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._upnlUpdateExistingCompanyInfo">
+<summary>
+upnlUpdateExistingCompanyInfo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._ddExistingCompany">
+<summary>
+ddExistingCompany control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._ExistingCompanyInfoArea">
+<summary>
+ExistingCompanyInfoArea control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._lblExistingCompanyName">
+<summary>
+lblExistingCompanyName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._lbl">
+<summary>
+lbl control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._lblExistingCompanyAddress">
+<summary>
+lblExistingCompanyAddress control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._lblExistingCompanyEmail">
+<summary>
+lblExistingCompanyEmail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._Label3">
+<summary>
+Label3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._lblExistingCompanyTelephone">
+<summary>
+lblExistingCompanyTelephone control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._Label4">
+<summary>
+Label4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._rbNewCompany">
+<summary>
+rbNewCompany control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._NewCompanyInfoArea">
+<summary>
+NewCompanyInfoArea control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._txtNewCompanyName">
+<summary>
+txtNewCompanyName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._txtNewCompanyValidator">
+<summary>
+txtNewCompanyValidator control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._txtNewCompanyAddress">
+<summary>
+txtNewCompanyAddress control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._txtNewCompanyEmail">
+<summary>
+txtNewCompanyEmail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._txtNewCompanyTelephone">
+<summary>
+txtNewCompanyTelephone control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._txtPlaceOfRegister">
+<summary>
+txtPlaceOfRegister control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._txtInsuranceStartDate">
+<summary>
+txtInsuranceStartDate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._txtInsuranceEndDate">
+<summary>
+txtInsuranceEndDate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._btnCancel">
+<summary>
+btnCancel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserAdd._BtnUpdate">
+<summary>
+BtnUpdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserList._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:InsuranceManagement.UserList._ddCompanies">
+<summary>
+ddCompanies control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
